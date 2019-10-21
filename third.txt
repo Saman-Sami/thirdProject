@@ -5,3 +5,5 @@ Some more new changes.
 Some new changes for viewing fast forward.
 
 Updated for checking merge commit through SmartGit.
+
+Updated for checking rebase through SmartGit.
