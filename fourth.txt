@@ -1,1 +1,3 @@
 New file for testing reset
+
+Updated for checking fast forward merge from SmartGit.
