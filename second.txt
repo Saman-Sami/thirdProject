@@ -1,3 +1,5 @@
 Working World
 
 Changes for merge comit through terminal.
+
+Updated for checking rebase through terminal.
