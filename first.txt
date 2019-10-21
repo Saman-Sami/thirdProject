@@ -1,3 +1,5 @@
 Hello World
 
 Some new changes for checking fast forward.
+
+Updated for checking merge commit through SmartGit.
