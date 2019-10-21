@@ -3,3 +3,5 @@ New file for testing reset
 Updated for checking fast forward merge from SmartGit.
 
 Updated for merge commit through terminal.
+
+Updated for checking rebase through terminal.
